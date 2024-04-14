@@ -1,0 +1,20 @@
+1. What is the terminal?
+
+The terminal is used as a tool to link to a computer with text-based commands.
+macOS has a native app called Terminal.
+
+2. What is the major difference between Git and GitHub?
+
+Git is used to help developers keep track of changes while working on different parts of the same project globally. 
+
+GitHub is a web app that can connect with Git. 
+
+Users can host, organize, explore, and collaborate on code with teams(project management) and the universal developer community by linking both applications.
+
+3.  What are the steps to fork a GitHub repository?
+
+ click "Fork" (top-right corner of the page)
+ Under "Owner," select the dropdown menu and click an owner for the forked repository
+ type a new name in the "Repository name" field (optional)
+ type a description in the "Description" field (optional)
+ click "Create fork"
